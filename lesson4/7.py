@@ -8,8 +8,10 @@ n = int(n)
 m = int(m)
 arr=[]
 for i in range(n):
+    newarr=[]
     for j in range(m):
-        arr[i][j]=random.randint(0,20)
+        newarr.append(random.randint(0,30))
+    arr.append(newarr)
 sumi=0
 for i in range(n):
     for j in range(m):
