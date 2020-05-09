@@ -1,0 +1,11 @@
+2
+yerassyl,22,30/40
+kirito,20,20/30
+
+[
+    {
+        "name":"yerassyl",
+        "age":22,
+        "test":[30,40]
+    },
+]
