@@ -1,0 +1,12 @@
+# 2
+# yerassyl,22,1 2 3 4 5
+# kirito,20,5 3 2 4
+
+[
+    {
+        "name":"yerassyl",
+        "age":22,
+        "marks":[1,2,3,4,5,
+        "avg":3
+    },
+]

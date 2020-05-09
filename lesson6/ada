@@ -6,6 +6,7 @@ kirito,20,20/30
     {
         "name":"yerassyl",
         "age":22,
-        "test":[30,40]
+        "test":[30,40],
+        "test_precent":75
     },
 ]

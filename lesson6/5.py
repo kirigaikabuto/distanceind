@@ -17,9 +17,11 @@ for i in range(n):
     d['marks']=marks_int_arr
     students.append(d)
 
-for i in students:
-    print(i)    
+# for i in students:
+#     i['test_precent'] = i['marks'][0]/i['marks'][1]    
 
+for i in students:
+    print(i)
 # [
 #     {
 #         "name":"yerasyl",
