@@ -1,4 +1,4 @@
-#3
+# 3
 # yerassyl 22
 # kirito 30
 # ivan 40
@@ -11,4 +11,4 @@ for i in range(n):
     arr.append(d)
 
 for i in arr:
-    print(i['name'])
+    print(i['name'],i['age'])
