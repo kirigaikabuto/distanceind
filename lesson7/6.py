@@ -10,6 +10,6 @@ marks_int_arr= [int(i) for i in marks_str_arr]
 d={}
 d['name']=name
 d['marks']=marks_int_arr
-print(d)
 d['max_mark']=get_max(d['marks'])
+d['avg_mark']=avg_arr(d['marks'])
 print(d)
