@@ -6,4 +6,5 @@ p2 = Product("product2",2000)
 p3 = Product("product3",3000)
 products=[p1,p2,p3]
 c1 = Cart(products)
+p4 = Product("product4",4000)
 c1.show_products()
