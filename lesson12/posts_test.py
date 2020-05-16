@@ -6,6 +6,8 @@ url = "https://jsonplaceholder.typicode.com/posts"
 response = requests.get(url)
 json_data = response.text
 posts = json.loads(json_data)
+#keys=posts[0].keys()
+#print(keys)
 #create Post objects and append it to objects list
 objects=[]
 for i in posts:
